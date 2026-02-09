@@ -2,15 +2,18 @@ class Enp{
     private int age;
     private String name;
 
-    public void setage(int a){
-        age=a;
+    public void setage(int a) {
+        age = a;
     }
-    public int getage(){
+
+    public int getage() {
         return age;
     }
-     public void setname(String n){
-        name=n;
+
+    public void setname(String n) {
+        name = n;
     }
+
     public String getname(){
         return name;
     }
